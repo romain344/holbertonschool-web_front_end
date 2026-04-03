@@ -1,9 +1,9 @@
 $text-color: #3D3D3D;
-$background-color: #6D6D6D;
+$bg-color: #6D6D6D;
 
 body {
     color: $text-color;
-    background: $background-color;
+    background-color: $bg-color;
 }
 
 p {
@@ -11,5 +11,5 @@ p {
 }
 
 h2 {
-    background: $background-color;
+    background-color:  $bg-color;
 }
