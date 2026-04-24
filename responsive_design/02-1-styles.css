@@ -291,7 +291,7 @@
   }
 
   @media (max-width: 767px) {
-    .nav-menu {
+    .navbar-menu {
       display: none;
     }
   }
