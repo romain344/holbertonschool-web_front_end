@@ -309,6 +309,10 @@
       max-height: 0;
       transition: max-height .2s ease-out;
     }
+
+    .header .menu-icon {
+      display: block;
+    }
   }
 
   /* Header
@@ -329,6 +333,7 @@
 
   .header .menu-icon {
     cursor: pointer;
+    display: none;
     padding: 2.5rem;
     position: relative;
     user-select: none;
